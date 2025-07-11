@@ -1,6 +1,13 @@
 {
   "name": "mcp-teams-connector",
-  "version": "1.0.0",
+  "vers  "repository": {
+    "type": "git",
+    "url": "https://github.com/dayour/mcp-teams-connector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dayour/mcp-teams-connector/issues"
+  },
+  "homepage": "https://github.com/dayour/mcp-teams-connector#readme".0.0",
   "description": "MCP connector for Microsoft Teams and Outlook integration",
   "type": "module",
   "main": "dist/index.js",
@@ -44,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darbotron/mcp-teams-connector.git"
+    "url": "https://github.com/dayour/mcp-teams-connector.git"
   },
   "bugs": {
-    "url": "https://github.com/darbotron/mcp-teams-connector/issues"
+    "url": "https://github.com/dayour/mcp-teams-connector/issues"
   },
-  "homepage": "https://github.com/darbotron/mcp-teams-connector#readme"
+  "homepage": "https://github.com/dayour/mcp-teams-connector#readme"
 }
