@@ -1,0 +1,11 @@
+{
+  "mcp.servers": {
+    "teams-connector": {
+      "command": "node",
+      "args": ["${workspaceFolder}/mcp-teams-connector/dist/index.js"],
+      "environment": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
