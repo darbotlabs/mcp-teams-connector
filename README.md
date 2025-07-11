@@ -32,7 +32,7 @@ A standalone Model Context Protocol (MCP) server that bridges Microsoft Teams an
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/darbotron/mcp-teams-connector.git
 cd mcp-teams-connector
 npm install
 ```
