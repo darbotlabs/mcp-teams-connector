@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dayour/mcp-teams-connector.git"
+    "url": "https://github.com/darbotlabs/mcp-teams-connector.git"
   },
   "bugs": {
-    "url": "https://github.com/dayour/mcp-teams-connector/issues"
+    "url": "https://github.com/darbotlabs/mcp-teams-connector/issues"
   },
-  "homepage": "https://github.com/dayour/mcp-teams-connector#readme"
+  "homepage": "https://github.com/darbotlabs/mcp-teams-connector#readme"
 }
