@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCP Teams Connector
 
 A standalone Model Context Protocol (MCP) server that bridges Microsoft Teams and Outlook with AI tools like Claude Desktop and VS Code. This connector enables AI assistants to manage calendar events, send Teams messages, and handle meetings through Microsoft Graph API.
